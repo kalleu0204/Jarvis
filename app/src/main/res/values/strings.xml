@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Jarvis</string>
+    <string name="acc_desc">Permite que o Jarvis toque em botões e leia a tela do celular para executar os seus comandos.</string>
+</resources>
